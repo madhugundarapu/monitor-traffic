@@ -5,8 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class MonitorTrafficApplication {
-		//Trying Git locally - corrected, analytics branch
-		// changes for new branch
+		//Trying Git locally - corrected,  analytics branch image management
+
 	public static void main(String[] args) {
 		SpringApplication.run(MonitorTrafficApplication.class, args);
 	}
